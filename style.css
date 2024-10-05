@@ -75,7 +75,6 @@ button:hover {
   white-space: nowrap;
   display: flex;
   justify-content: space-between;
-  :none ;
 }
 
 .hourly-item {
